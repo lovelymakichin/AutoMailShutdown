@@ -1,0 +1,9 @@
+$FromlastName = "田中"
+$FromFirstName = "太郎"
+$FromFullName = $FromlastName + $FromFirstName
+$FromAddress = "tr_tanaka@***.jp"
+$TolastName = "山田"
+$ToFirstName = "花子"
+$ToFullName = $TolastName + $ToFirstName
+$ToAddress = "hana@gmail.com"
+$SmtpServer = "172.16.*.*"
